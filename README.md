@@ -35,3 +35,16 @@ Financial institutions operate in an increasingly complex regulatory landscape g
 |            (Low / Med / High)             (False Positive Rate) |
 |                                                                 |
 +-----------------------------------------------------------------+
+▫️▫️▫️▫️▫️
+▫️▫️▫️▫️▫️
+🔍 Real-World Scenarios & Case Studies
+This project outlines practical resolution protocols for complex financial crime scenarios:
+Scenario A (Shell Company Typology): Identifying multi-layered corporate structures hiding UBOs via offshore jurisdictions; implementing corporate registry cross-checks.
+Scenario B (Structuring / Smurfing): Catching transactions just below reporting thresholds ($10,000) using velocity checks and pattern recognition rules.
+Scenario C (Sanctions False Positive Tuning): Managing name-matching alerts (e.g., common phonetic spellings) through secondary identifier validation (DOB, nationality).
+🛠️ Technical Skill Set Demonstrated
+Domain Expertise: Anti-Money Laundering (AML), Counter-Terrorist Financing (CTF), KYC/CDD/EDD workflows, Sanctions Screening, PEP Identification.
+Regulatory Frameworks: FATF Recommendations, OFAC Compliance, Know Your Customer Standards.
+Methodologies: Risk matrix design, transaction monitoring rule logic, suspicious activity report (SAR) workflow mapping, false-positive reduction strategies.
+🚀 Future Enhancements
+Integrating graph database modeling for visualizing complex money laundering networks and ultimate beneficial ownership webs.
